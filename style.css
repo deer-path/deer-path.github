@@ -29,7 +29,7 @@
 
 .heroImg {
     height: 600px;
-    background-image: url("/Users/haileyjamieson/Documents/00_MyCode/ux_ui_hw_17/overlay.png");
+    background-image: url("images/overlay.png");
 }
 .content {
     width: 500px;
